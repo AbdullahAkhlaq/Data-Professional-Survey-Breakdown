@@ -4,7 +4,7 @@ This repository contains a Power BI dashboard titled **Data Professional Survey 
 
 ## Dashboard Overview
 
-![Data Professional Survey Breakdown] (![image](https://github.com/user-attachments/assets/f1fa61fa-c52e-480d-bb51-168e67df63fe)
+![Data Professional Survey Breakdown](https://github.com/AbdullahAkhlaq/Data-Professional-Survey-Breakdown/blob/main/dashboard.png)
 
 ### Key Sections:
 
@@ -41,4 +41,3 @@ To explore the dashboard:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
